@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html><meta name="google-site-verification" content="xxxxxxxx" />
+<html>
 <head>
   <title>Beauty Shoe Center</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,7 +11,7 @@
     }
     header {
       background: #000;
-      color: white;
+      <meta name="google-site-verification" content="xxxxxxxx" />: white;
       padding: 20px;
       text-align: center;
     }
@@ -85,6 +84,4 @@
   <p>© 2026 Beauty Shoe Center</p>
 </footer>
 
-</body>
-</html>
-
+</
