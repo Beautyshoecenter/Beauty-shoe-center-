@@ -82,3 +82,4 @@
 
 </body>
 </html>
+<img src="photo.jpg" alt="My Image">
