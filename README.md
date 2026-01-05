@@ -63,7 +63,7 @@
     <li>Quality footwear</li>
   </ul>
 </section>
-
+<img src="images/IMG-20260104-WA0043~2.jpg" width="250">
 <section>
   <h2>Our Products</h2>
   <ul>
