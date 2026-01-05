@@ -66,7 +66,7 @@
 
 <section>
   <h2>Our Products</h2>
-  <ul>
+  <ul><img src="Shoes.jpg" alt="Shoes" style="width:100%;max-width:400px;">
     <li>Men Shoes</li>
     <li>Women Shoes</li>
     <li>Kids Shoes</li>
@@ -77,7 +77,7 @@
 <section>
   <h2>Contact Us</h2>
   <p><b>Shop Name:</b> Beauty Shoe Center</p>
-  <p><b>Phone:</b> 9XXXXXXXXX</p>
+  <p><b>Phone:</b> 9839885600</p>
   <p><b>Address:</b> Your Shop Address Here</p>
 </section>
 
@@ -87,4 +87,4 @@
 
 </body>
 </html>
-<img src="Shoes.jpg" alt="Shoes" style="width:100%;max-width:400px;">
+
