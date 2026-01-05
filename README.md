@@ -30,7 +30,12 @@
       color: white;
       text-align: center;
       padding: 10px;
-    }
+<footer>
+  <p>© 2026 Beauty Shoe Center</p>
+</footer>
+
+</body>
+</html>    }
   </style>
 </head>
 
@@ -82,4 +87,3 @@
 
 </body>
 </html>
-<img src="photo.jpg" alt="My Image">
