@@ -87,4 +87,4 @@
 
 </body>
 </html>
-![Shoes](Shoes.jpg)
+<img src="Shoes.jpg" alt="Shoes" style="width:100%;max-width:400px;">
