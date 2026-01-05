@@ -71,14 +71,14 @@
     <li>Women Shoes</li>
     <li>Kids Shoes</li>
     <li>Sandals & Slippers</li>
-  </ul>
+  </ul><img src="Shoes.jpg" alt="Shoes" style="width:100%;max-width:400px;">
 </section>
 
 <section>
   <h2>Contact Us</h2>
   <p><b>Shop Name:</b> Beauty Shoe Center</p>
-  <p><b>Phone:</b> 9XXXXXXXXX</p>
-  <p><b>Address:</b> Your Shop Address Here</p>
+  <p><b>Phone:</b> 9839885600</p>
+  <p><b>Address:</b> New market station road Mohammadabad gohna mau</p>
 </section>
 
 <footer>
@@ -87,4 +87,4 @@
 
 </body>
 </html>
-![Shoes](Shoes.jpg)
+
