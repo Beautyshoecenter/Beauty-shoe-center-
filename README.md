@@ -63,7 +63,7 @@
     <li>Quality footwear</li>
   </ul>
 </section>
-![Shoes](IMG-20260104-WA0043~2.jpg)
+
 <section>
   <h2>Our Products</h2>
   <ul>
@@ -87,3 +87,4 @@
 
 </body>
 </html>
+![Shoes](Shoes.jpg)
