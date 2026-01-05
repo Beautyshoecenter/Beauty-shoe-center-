@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html><meta name="google-site-verification" content="xxxxxxxx" />
 <head>
   <title>Beauty Shoe Center</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
