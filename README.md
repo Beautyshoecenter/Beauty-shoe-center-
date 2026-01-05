@@ -78,7 +78,7 @@
   <h2>Contact Us</h2>
   <p><b>Shop Name:</b> Beauty Shoe Center</p>
   <p><b>Phone:</b> 9839885600</p>
-  <p><b>Address:</b> Your Shop Address Here</p>
+  <p><b>Address:</b> new Market mohammadabad</p>
 </section>
 
 <footer>
